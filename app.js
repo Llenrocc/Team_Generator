@@ -1,8 +1,8 @@
-// CONTRUCTORS
-const Employee = require('./lib/employee');
-const Manager = require('./lib/manager');
-const Engineer = require('./lib/engineer');
-const Intern = require('./lib/intern');
+// CONSTRUCTORS
+const Employee = require('./develop/lib/employee');
+const Manager = require('./develop/lib/manager');
+const Engineer = require('./develop/lib/engineer');
+const Intern = require('./develop/lib/intern');
 // DEPENDENCIES
 const axios = require('axios');
 const Inquirer = require("inquirer");
